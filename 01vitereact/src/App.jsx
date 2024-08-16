@@ -1,7 +1,9 @@
+import Hello from "./hello";
+
 function App() {
   return (
     <>
-    <h2>From Vite</h2>
+    <Hello></Hello>
     <h1>Creating react from vite</h1>
     </>     
   )
